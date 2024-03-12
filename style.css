@@ -1,0 +1,22 @@
+ .logo{
+    
+    /* background-color: blueviolet; */
+ }
+ .logo img{
+    width: 100px;
+    height:45px;
+ }
+
+ nav{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+ }
+.right ul{
+    display: flex;
+    gap: 34px;
+ }
+ .right ul li{
+    list-style: none;
+    
+ }
